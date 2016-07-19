@@ -1,0 +1,1121 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"js",
+				"jsondata"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"lea",
+				"learnMoreLink"
+			],
+			[
+				"word",
+				"word-spacing"
+			],
+			[
+				"to",
+				"token"
+			],
+			[
+				"next",
+				"nextToken"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"team",
+				"team_lead"
+			],
+			[
+				"ind_even",
+				"Indi_Event_Participants"
+			],
+			[
+				"ev",
+				"event_participants"
+			],
+			[
+				"event",
+				"event_part"
+			],
+			[
+				"event_",
+				"event_participants"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"Pro",
+				"ProfileSerializer"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"MA",
+				"MAX_HEIGHT"
+			],
+			[
+				"MAX_",
+				"MAX_HEIGHT"
+			],
+			[
+				"MX",
+				"MAX_HEIGHT"
+			],
+			[
+				"MAX",
+				"MAX_WIDTH"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"Update",
+				"UpdateProfileForm"
+			],
+			[
+				"profi",
+				"profile_obj"
+			],
+			[
+				"pro",
+				"profile_obj"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"is_",
+				"is_authenticated"
+			],
+			[
+				"per",
+				"permissions"
+			],
+			[
+				"permiss",
+				"permissions"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"de",
+				"decorators"
+			],
+			[
+				"a",
+				"a_new_list"
+			],
+			[
+				"the",
+				"the_list"
+			],
+			[
+				"line",
+				"line_breaks"
+			],
+			[
+				"is",
+				"is_manager"
+			],
+			[
+				"redi",
+				"redis_url"
+			],
+			[
+				"get",
+				"get_or_create"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"f",
+				"featurette"
+			],
+			[
+				"max",
+				"max_length	None"
+			],
+			[
+				"Htt",
+				"HttpResponsePermanentRedirect	class"
+			],
+			[
+				"question",
+				"question_type"
+			],
+			[
+				"lo",
+				"login_required	function"
+			],
+			[
+				"Le",
+				"LectureQuestion	class"
+			],
+			[
+				"Que",
+				"QuestionAnswerInline"
+			],
+			[
+				"L",
+				"LectureQuestion	class"
+			],
+			[
+				"for",
+				"ForeignKey	class"
+			],
+			[
+				"se",
+				"settings	instance"
+			],
+			[
+				"Lecture",
+				"LectureCompletion	class"
+			],
+			[
+				"prev",
+				"prev_item	statement"
+			],
+			[
+				"nex",
+				"next_item	statement"
+			],
+			[
+				"prv",
+				"prev_item	statement"
+			],
+			[
+				"fin",
+				"finished	statement"
+			],
+			[
+				"Lec",
+				"LectureCompletion	class"
+			],
+			[
+				"le",
+				"lecture_id	statement"
+			],
+			[
+				"ne",
+				"new_view	statement"
+			],
+			[
+				"con",
+				"conf	module"
+			],
+			[
+				"base",
+				"base_name	statement"
+			],
+			[
+				"file",
+				"filename	statement"
+			],
+			[
+				"Question",
+				"QuestionManager"
+			],
+			[
+				"Text",
+				"TextInput	class"
+			],
+			[
+				"Http",
+				"Http404	class"
+			],
+			[
+				"vide",
+				"video_file"
+			],
+			[
+				"help",
+				"help_text	''"
+			],
+			[
+				"vid",
+				"video_file"
+			],
+			[
+				"get_",
+				"get_queryset"
+			],
+			[
+				"new_",
+				"new_slug	statement"
+			],
+			[
+				"S3",
+				"S3DirectWidget	class"
+			],
+			[
+				"w",
+				"widgets	module"
+			],
+			[
+				"cre",
+				"create_video_tupe	function"
+			],
+			[
+				"fi",
+				"file_string"
+			],
+			[
+				"up",
+				"uploadTo"
+			],
+			[
+				"H",
+				"Http404	class"
+			],
+			[
+				"Video",
+				"VideoForm	class"
+			],
+			[
+				"Vi",
+				"VideoForm	class"
+			],
+			[
+				"PRE",
+				"pre_save	statement"
+			],
+			[
+				"Vid",
+				"Video	class"
+			],
+			[
+				"get_user",
+				"get_user_model	function"
+			],
+			[
+				"fr",
+				"friends"
+			],
+			[
+				"ip",
+				"ip_overload"
+			],
+			[
+				"email_",
+				"email_user	statement"
+			],
+			[
+				"EmailF",
+				"emailfriends"
+			],
+			[
+				"Em",
+				"EmailFriends	class"
+			],
+			[
+				"Ema",
+				"EmailSignUp	class"
+			],
+			[
+				"x",
+				"x_forwarded_for	statement"
+			],
+			[
+				"ref",
+				"ref_id"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"j",
+				"jumbotron"
+			],
+			[
+				"data-",
+				"data-toggle"
+			],
+			[
+				"fo",
+				"font-variant"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"Date",
+				"DateTimeField	class"
+			],
+			[
+				"Not",
+				"NotificationAdmin	class"
+			],
+			[
+				"No",
+				"Notification	class"
+			],
+			[
+				"notifi",
+				"notified	statement"
+			],
+			[
+				"ses",
+				"ses	module"
+			],
+			[
+				"My",
+				"MyLectureView	class"
+			],
+			[
+				"Suggest",
+				"SuggestionManager"
+			],
+			[
+				"Sugg",
+				"SuggestionManager	class"
+			],
+			[
+				"date",
+				"datetime	class"
+			],
+			[
+				"ke",
+				"key_list	statement"
+			],
+			[
+				"password",
+				"password_reset_done"
+			],
+			[
+				"MEDIA",
+				"MEDIA_URL	statement"
+			],
+			[
+				"proje",
+				"project	statement"
+			],
+			[
+				"key",
+				"key_list_here	statement"
+			],
+			[
+				"Project",
+				"ProjectCode	class"
+			],
+			[
+				"com",
+				"completed_num"
+			],
+			[
+				"auto_now",
+				"auto_now_add"
+			],
+			[
+				"Dat",
+				"DateTimeField	class"
+			],
+			[
+				"comp",
+				"completed	statement"
+			],
+			[
+				"coo",
+				"cookie_time"
+			],
+			[
+				"wi",
+				"wistiaEmbed"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "hook.rb",
+			"settings":
+			{
+				"buffer_size": 764,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hook.py",
+			"settings":
+			{
+				"buffer_size": 1742,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/sebastinsanty/Desktop/CS/Orgs/Bugzilla/Bot/site.py",
+			"settings":
+			{
+				"buffer_size": 1822,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/sebastinsanty/Desktop/CS/Orgs/Bugzilla/Bot/autostart.cgi",
+			"settings":
+			{
+				"buffer_size": 2061,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 728.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sebastinsanty/Desktop/CS/Orgs/MozillaBot",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Bugzilla/Bot",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Bugzilla/Bot/bin"
+	],
+	"file_history":
+	[
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Bugzilla/BugzillaLive/htdocs/1285657/extensions/BMO/Extension.pm",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Bugzilla/Bugzilla@Mozilla/extensions/BMO/template/en/default/hook/reports/menu-end.html.tmpl",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Bugzilla/Bugzilla@Mozilla/extensions/BMO/template/en/default/pages/release_tracking_report.html.tmpl",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Bugzilla/BugzillaLive/htdocs/1178040/extensions/UserProfile/template/en/default/pages/user_profile.html.tmpl",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/.hg/patches/bug1275546_angleswatch_usinglexer.diff",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/.hg/hgrc",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/devtools/client/shared/css-angle.js",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/browser/themes/shared/tabs.inc.css",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/browser/themes/shared/notification-icons.inc.css",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/browser/themes/shared/jar.inc.mn",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/.hg/patches/bug1284632_shareconnectingimgs.diff",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/devtools/client/sourceeditor/codemirror/lib/codemirror.js",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/devtools/client/sourceeditor/codemirror/addon/dialog/dialog.js",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/obj-x86_64-apple-darwin15.0.0/dist/Nightly.app/Contents/Resources/browser/chrome/devtools/content/sourceeditor/codemirror/lib/codemirror.js",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/browser/locales/en-US/chrome/browser/preferences/preferences.properties",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/.hg/patches/bug1285242_glyphsrename.diff",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/.hg/patches/bug1269820_greenlock_for_mixedcontents.diff",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/obj-debug/dist/bin/browser/chrome/browser/skin/classic/browser/browser.css",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/obj-debug/dist/NightlyDebug.app/Contents/Resources/browser/chrome/browser/skin/classic/browser/browser.css",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/testing/firefox-ui/tests/functional/security/test_mixed_script_content_blocking.py",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/browser/themes/windows/jar.mn",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/browser/themes/linux/jar.mn",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/browser/themes/osx/jar.mn",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/devtools/client/shared/test/browser_css_angle.js",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/browser/themes/shared/identity-block/identity-block.inc.css",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/browser/base/content/content.js",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/browser/base/content/test/general/browser_aboutCertError.js",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/.hg/patches/bug1275896_hardcodedlearnlink.diff",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/browser/base/content/test/general/head.js",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/browser/themes/shared/identity-block/identity-mixed-active-blocked.svg",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/devtools/server/actors/highlighters.css",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/.hg/patches/bug1282455_learnlink_for_timerelated_errors.diff",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/devtools/client/shared/output-parser.js",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/browser/themes/shared/customizableui/panelUIOverlay.inc.css",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/browser/themes/shared/incontentprefs/preferences.inc.css",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/browser/components/preferences/in-content/sync.xul",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/.hg/patches/bug1235062_uppercasedtooltip.diff",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/.hg/patches/series",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/.hg/patches/status",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/devtools/client/inspector/shared/utils.js",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/devtools/client/shared/css-color.js",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/devtools/shared/css-lexer.js",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/devtools/client/inspector/rules/views/text-property-editor.js",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/devtools/client/inspector/computed/test/browser_computed_cycle_color.js",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/devtools/client/themes/rules.css",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/devtools/client/inspector/rules/test/browser_rules_cycle-angle.js",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/.hg/store/fncache",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/browser/themes/windows/webRTC-indicator.css",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/browser/themes/linux/webRTC-indicator.css",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/.mozconfig-release",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/.mozconfig-debug",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/devtools/client/shared/widgets/filter-widget.css",
+		"/Users/sebastinsanty/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/mach",
+		"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/.mozconfig",
+		"/Users/sebastinsanty/Desktop/CS/Work/QSAT/QSAT/src/home/admin.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/QSAT/QSAT/src/templates/registera.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/QSAT/QSAT/src/qsat/settings/production.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/README.md",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/wavesprofile/admin.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/manage.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/.travis.yml",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/wavesprofile/tests.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/codecov.yml",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/wavesprofile/migrations/0001_initial.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/home/tests.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/accommodation/models.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/wavesprofile/migrations/0002_auto_20160529_1735.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/events/api/serializers.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/wavesprofile/views.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/index.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/contact.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/waves/urls.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/events/api/views.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/events/api/urls.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/profile.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/events/views.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/indeventsreg.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/base.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/wavesprofile/api/views.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/events/api/__init__.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/waves/settings/__init__.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/waves/settings/production.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/waves/settings/base.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/waves/settings/local.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/wavesprofile/forms.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/wavesprofile/models.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/home/views.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/registration/logout.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/registration/registration_form.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/registration/registration_complete.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/registration/login.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/500.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/404.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/registration/activation_complete.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/registration/activation_email.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/events/models.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/updateprofile.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/waves/wsgi.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/registration/activation_email_subject.txt",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/registration/activation_email.txt",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/team/admin.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/team/forms.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/wavesprofile/migrations/0008_profile_cropping.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/wavesprofile/api/serializers.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/team/models.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/teameventsreg.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/teamcreate.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/team/views.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/events/admin.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/teamevents.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/indevents.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/events.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/registration/indeventsreg.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/registration/indeventsreg",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/dashboard.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/waves/settings.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/print/views.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/accommodation.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/base3.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/events/migrations/__init__.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/events/migrations/0001_initial.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/regbase.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/wavesprofile/api/urls.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/wavesprofile/api/__init__.py",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/base2.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/registration/base2.html",
+		"/Users/sebastinsanty/Desktop/CS/Work/Waves/src/templates/registration/password_change_done.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+			"/Users/sebastinsanty/Desktop/CS/Orgs/Bugzilla/Bugzilla@Mozilla",
+			"/Users/sebastinsanty/Desktop/CS/Orgs/Bugzilla/BugzillaLive/htdocs/1285657",
+			"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central",
+			"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/browser/themes",
+			"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central,*.xhtml",
+			"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central",
+			"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central,*.py",
+			"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central,*.xhtml",
+			"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central",
+			"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central,/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/browser/themes/shared",
+			"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central",
+			"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/browser/components/preferences/in-content",
+			"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/browser",
+			"",
+			"/Users/sebastinsanty/Desktop/CS/Orgs/Mozilla/Firefox/mozilla-central/devtools/client",
+			"<open folders>",
+			"/Users/jmitch/Dropbox/cfe/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"page",
+			"0",
+			"Triage Report",
+			"Release Tracking Report",
+			"Release Tracking Report ",
+			"if",
+			"warnings",
+			"strict",
+			"e.keyCode == 27",
+			"must restart to enable this feature",
+			"permissio",
+			"info.sv",
+			"info",
+			"permissions",
+			"must restart to disable this feature.",
+			"connec",
+			"+++",
+			"glyphs.svg",
+			"glyphs",
+			"glyphs.svg",
+			"connecting.png",
+			"about",
+			"mixed",
+			"test_mixed_content_page",
+			"test_mixed_script_content_blocking",
+			"http",
+			"aboutNetError",
+			"aboutNetError.xhtml",
+			"aboutNetError.xhtml. ",
+			"[{\n",
+			"getAngleData",
+			"test_",
+			"mixed-active",
+			"time-",
+			"time",
+			"identity-mixed-active-blocked.svg",
+			"setUpPage",
+			"wrongSystemTimePanel",
+			"content.js",
+			"drm-cont",
+			"Services.urlFormatter.formatURLPref(\"app.support.baseURL\")",
+			"tracking-protection",
+			"ANGLEUNIT",
+			"time",
+			"switch",
+			"time-e",
+			"time",
+			"learn",
+			"fxaSyncIllu",
+			"sync-ill",
+			"sync-illustration",
+			"Firefox protects you from attacks by blocking potentially harmful, insecure content on web pages that are supposed to be secure. Keep reading to learn more about mixed content and how to tell when Firefox has blocked it.",
+			"mixed, .html",
+			".html",
+			"html",
+			"mixed-content-blocking",
+			"dimens",
+			"dimensi",
+			"startOff",
+			"nexttok",
+			"tok",
+			"tokenstream",
+			"!token",
+			"getCSSLexer",
+			"createObjectIn",
+			"exportFunction(",
+			"evalInWindow",
+			"evalInWindow(",
+			"evalInWindow()",
+			"createObjectIn(",
+			"wantExportHelpers",
+			"learn",
+			"url",
+			"learn",
+			"devtools/client/shared/output-parser.js",
+			"nextToken",
+			"/^-?\\d+\\.?\\d*(deg|rad|grad|turn)$",
+			"gettOKEN",
+			"getCSSLexer",
+			"checkSwatchShiftClick",
+			"ruleview-angleswatch",
+			"angle-swatch.svg",
+			"close.svg",
+			"close",
+			"cssAngle",
+			"authoredAngleValue",
+			"classifyAngle",
+			"CssAngle.ANGLEUNIT",
+			"valid:",
+			"newAngle",
+			"newAn",
+			"valid()",
+			"valid(",
+			"valid",
+			"displa",
+			"valid(",
+			"valid",
+			"lexer",
+			"back",
+			"xrange",
+			"full_name",
+			"backgro",
+			"backgrou",
+			"ranit",
+			"Music",
+			"Specials",
+			"example.com",
+			"example",
+			"You (or someone pretending to be you) have",
+			"acoo",
+			"image_",
+			"image_cropping",
+			"image",
+			"[]",
+			"User.objects.get(username=request.user.username).email",
+			"request.user.id",
+			"reques",
+			"or",
+			"image",
+			"pic",
+			"logo",
+			"JOHN",
+			"john",
+			"headin",
+			"MAX_HEIGHT",
+			"barco",
+			"MyBarcodeDrawing",
+			"accom"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"img/apple-touch-icon-152.png",
+			"{})",
+			"render(request,",
+			"render(",
+			")",
+			"render(request,",
+			"Coding For Entrepreneurs",
+			"CodingForEntrepreneurs.com",
+			"Coding For Entrepreneurs",
+			"CodingForEntrepreneurs.com"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "hook.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 764,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								764,
+								661
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "hook.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1742,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								76,
+								76
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/sebastinsanty/Desktop/CS/Orgs/Bugzilla/Bot/site.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1822,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1634,
+								1634
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/sebastinsanty/Desktop/CS/Orgs/Bugzilla/Bot/autostart.cgi",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2061,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 416.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 136.0
+	},
+	"pinned_build_system": "",
+	"project": "bot.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/CS/Orgs/Bugzilla/BugzillaLive/htdocs/1285657/extensions/BMO/Extension.pm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/CS/Competitive Coding/coding.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 289.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
