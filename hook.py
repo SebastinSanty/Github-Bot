@@ -27,7 +27,7 @@ class HelloWorld(object):
     			print(i.group(), status)
     			md = md + summary +"<br/>![Status](https://img.shields.io/badge/Status-" + status + "-blue.svg?style=flat) ![Status](https://img.shields.io/badge/Component-" + component + "-green.svg?style=flat) <br /> [https://bugzil.la/" + re.search(r'\d+', i.group()).group() + "](https://bugzil.la/" + re.search(r'\d+', i.group()).group() + ")<br /> ------ <br/>"
     	if (jsondata["sender"]["url"] != "https://api.github.com/users/mozilla-bot"):
-    		response = requests.post(jsondata["issue"]["url"] + "/comments",headers={'Authorization': 'token 6d5fc2d66cd7f6d3c1c4ac2edbebf268f60db992'}, json={"body": md})
+    		response = requests.post(jsondata["issue"]["url"] + "/comments",headers={'Authorization': ''}, json={"body": md})
 
     	return "Hello world!"
 
